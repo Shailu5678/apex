@@ -16,7 +16,7 @@ In this workshop, you'll create a Shopping Cart application that allows managing
 
     - To review, add, delete, or edit the number of products in the shopping cart.
 
-    - To submit orders.
+    - To submit orders. 
 
 Estimated Workshop Time: 2.5 hours
 
